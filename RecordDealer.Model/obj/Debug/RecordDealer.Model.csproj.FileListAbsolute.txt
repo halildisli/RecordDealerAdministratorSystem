@@ -1,0 +1,13 @@
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\RecordDealer.Model.dll.config
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\RecordDealer.Model.dll
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\RecordDealer.Model.pdb
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\DataAnnotationsExtensions.dll
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\EntityFramework.dll
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\EntityFramework.xml
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\obj\Debug\RecordDealer.Model.csproj.AssemblyReference.cache
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\obj\Debug\RecordDealer.Model.csproj.CoreCompileInputs.cache
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\obj\Debug\RecordDealer.Model.csproj.CopyComplete
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\obj\Debug\RecordDealer.Model.dll
+C:\Users\Halil İbrahim\Desktop\Halil-Ibrahim-Disli-EntityFramework-Uygulama-Marathon\EF_Project\EF_Project_RecordDealer\RecordDealer.Model\obj\Debug\RecordDealer.Model.pdb
